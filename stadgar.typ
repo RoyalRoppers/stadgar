@@ -165,7 +165,8 @@ samt tillvarata medlemmarnas intressen. Det åligger styrelsen särskilt att:
 - förbereda årsmöte.
 
 == Mandatperiod
-Mandatperioden för styrelseledamöter är ett verksamhetsår.
+Mandatperioden för styrelseledamöter är från dess att hen blir vald tills det
+att en ny styrelse har valts.
 
 == Utträde
 Önskar en styrelseledamot avträda sin post ska detta anmälas på nästkommande
