@@ -171,6 +171,14 @@ Mandatperioden för styrelseledamöter är ett verksamhetsår.
 Önskar en styrelseledamot avträda sin post ska detta anmälas på nästkommande
 styrelsemöte.
 
+== Tillfällig styrelsemedlem
+
+Om det uppstår en vakans i styrelsen kan styrelsen själva välja in en tillfällig
+medlem genom ett majoritetsbeslut. En tillfällig styrelsemedlem har full
+befogenhet som styrelsemedlem, men beslutet måste prövas under första
+efterföljande årsmöte. I händelsen av kallandet av ett extrainsatt årsmöte måste
+beslutet anges som en av orsakerna som föranlett mötet.
+
 = Styrelsemöten
 
 == Mötets förfarande
