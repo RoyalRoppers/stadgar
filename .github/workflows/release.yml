@@ -1,0 +1,25 @@
+name: "Release PDF"
+on:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install nix
+        uses: cachix/install-nix-action@v20
+
+      - name: Install typst
+        run: nix profile install nixpkgs#typst
+
+      - name: Compile PDF
+        run: typst compile stadgar.typ royalroppers-statues.pdf
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: royalroppers-statues.pdf
+          tag_name: latest
