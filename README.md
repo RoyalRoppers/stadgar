@@ -1,4 +1,7 @@
-# Statues of Royal Roppers
+# Statues of RoyalRoppers
+
+The latest version of the statues are available through a release
+[here](https://github.com/RoyalRoppers/stadgar/releases/download/latest/royalroppers-statues.pdf)!
 
 ## Changes
 
@@ -13,19 +16,17 @@ possible only contains the statues themselves.
 
 ## Rendering to PDF
 
-This project uses typst for typesettings, which can be downloaded from
-[here](https://github.com/typst/typst) and built with
-`cargo build -p typst-cli --release`.
-
-These statues can the be rendered to `stadgar.pdf` using:
+This project uses [typst](https://github.com/typst/typst) for typesetting and
+can be rendered to a PDF with:
 
 ```sh
-$ /path/to/typst stadgar.typ
+$ typst c stadgar.typ
 ```
 
-To get automatic updates as the statues are changed locally, also use the `-w`
-flag and display the PDF using a viewer that supports auto reloading, such as
-evince (usually called "documents" in gnome).
+To get automatic updates as the statues are changed locally, use `w` instead of
+`c` and display the PDF using a viewer that supports auto reloading, such as
+evince (usually called "documents" in gnome). Some editor plugins also support
+this.
 
 ## References
 
