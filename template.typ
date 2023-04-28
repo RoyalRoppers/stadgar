@@ -1,5 +1,5 @@
 #let template(body) = {
-  set document(title: "Roppers Roppers stadgar")
+  set document(title: "RoyalRoppers stadgar")
   set page(numbering: "1", number-align: center, margin: 4cm)
   set text(font: "Lnux Libertine", lang: "sv", hyphenate: false, size: 12pt)
   set heading(numbering: sym.section + " 1.1")
@@ -11,7 +11,7 @@
   v(1fr)
 
   block(text(2em, weight: 700, [
-    Royal Roppers stadgar
+    RoyalRoppers stadgar
   ]))
   text([
     Org. nr.: 802539-6931 \
