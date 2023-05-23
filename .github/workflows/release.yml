@@ -2,6 +2,7 @@ name: "Release PDF"
 on:
   push:
     branches: [master]
+  workflow_dispatch:
 
 jobs:
   deploy:
@@ -16,10 +17,11 @@ jobs:
         run: nix profile install nixpkgs#typst
 
       - name: Compile PDF
-        run: typst compile stadgar.typ royalroppers-statues.pdf
+        run: typst compile stadgar.typ royalroppers-statutes.pdf
 
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          files: royalroppers-statues.pdf
+          files: royalroppers-statutes.pdf
           tag_name: latest
+          target_commitish: master

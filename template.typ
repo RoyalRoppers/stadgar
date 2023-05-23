@@ -1,7 +1,7 @@
 #let template(body) = {
   set document(title: "RoyalRoppers stadgar")
   set page(numbering: "1", number-align: center, margin: 4cm)
-  set text(font: "Lnux Libertine", lang: "sv", hyphenate: false, size: 12pt)
+  set text(font: "Linux Libertine", lang: "sv", hyphenate: false, size: 12pt)
   set heading(numbering: sym.section + " 1.1")
   set ref(supplement: sym.section)
   set list(indent: 1em)
