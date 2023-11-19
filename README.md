@@ -1,7 +1,7 @@
-# Statues of RoyalRoppers
+# Statutes of RoyalRoppers
 
-The latest version of the statues are available through a release
-[here](https://github.com/RoyalRoppers/stadgar/releases/download/latest/royalroppers-statues.pdf)!
+The latest version of the statutes are available through a release
+[here](https://github.com/RoyalRoppers/stadgar/releases/download/latest/royalroppers-statutes.pdf)!
 
 ## Changes
 
@@ -12,7 +12,7 @@ or closed.
 ## Structure
 
 All styling stuff is in `template.typ`, so that `stadgar.typ` as much as
-possible only contains the statues themselves.
+possible only contains the statutes themselves.
 
 ## Rendering to PDF
 
@@ -23,7 +23,7 @@ can be rendered to a PDF with:
 $ typst c stadgar.typ
 ```
 
-To get automatic updates as the statues are changed locally, use `w` instead of
+To get automatic updates as the statutes are changed locally, use `w` instead of
 `c` and display the PDF using a viewer that supports auto reloading, such as
 evince (usually called "documents" in gnome). Some editor plugins also support
 this.
