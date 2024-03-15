@@ -43,7 +43,7 @@ brådskande fall får frågan avgöras av revisorn.
 Medlem är den som har lämnat in en av föreningen godkänd medlemsansökan.
 
 Föreningen är öppen för alla fysiska personer som studerar eller har studerat på
-KTH, bor i Sverige eller innehar svenskt medborgarskap alterativt rekommendras
+KTH, bor i Sverige eller innehar svenskt medborgarskap alterativt rekommenderas
 av en annan medlem. Medlem skall följa föreningens stadgar och föreskrifter.
 Medlemskapet gäller per verksamhetsår.
 
