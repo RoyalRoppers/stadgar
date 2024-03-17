@@ -124,7 +124,7 @@ yttranderätt, men inte rösträtt.
 
 Samtliga beslut fattas genom acklamation. Varje deltagare med rösträtt har rätt
 att begära sluten votering. Om inte annat beslutats gäller enkel majoritet.
-Beslut där mer än enkel majoritet krävs skall fattas genom sluten votering.
+Beslut där mer än enkel majoritet krävs skall fattas genom votering.
 
 == Val
 Årsmötet väljer nästa års styrelse, revisor och valberedning.
