@@ -47,10 +47,10 @@ brådskande fall får frågan avgöras av revisorn.
 == Medlemmar
 Medlem är den som har lämnat in en av föreningen godkänd medlemsansökan.
 
-Föreningen är öppen för alla fysiska personer som studerar eller har studerat på
-KTH, bor i Sverige eller innehar svenskt medborgarskap alterativt rekommenderas
-av en annan medlem. Medlem skall följa föreningens stadgar och föreskrifter.
-Medlemskapet gäller per verksamhetsår.
+Föreningen är öppen för alla fysiska personer som delar föreningens intressen
+och studerar eller har studerat på KTH, bor i Sverige eller innehar svenskt
+medborgarskap alterativt rekommenderas av en annan medlem. Medlem skall följa
+föreningens stadgar och föreskrifter. Medlemskapet gäller per verksamhetsår.
 
 Medlem som allvarligt skadar föreningen eller motverkar dess syfte kan uteslutas
 av årsmötet genom beslut med två tredjedels majoritet. I brådskande fall kan
