@@ -71,6 +71,13 @@ styrelsen varpå denne ej längre anses vara en medlem. Även den medlem som ej
 förnyar sitt medlemskap i samband med ett nytt verksamhetsår bör anses ha
 utträtt.
 
+== Fyllnadsval
+Om det uppstår en vakans i styrelsen kan styrelsen själva välja in en
+ersättningsmedlem genom majoritetsbeslut. En ersättare i styrelsen har full
+befogenhet som styrelsemedlem, men beslutet måste prövas under första
+efterföljande årsmöte. I händelsen av kallandet av ett extrainsatt årsmöte måste
+beslutet anges som en av orsakerna som föranlett mötet.
+
 = Årsmöte
 
 == Tidpunkt och kallelse <tidpunkt-kallelse>
