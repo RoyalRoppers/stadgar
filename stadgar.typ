@@ -248,6 +248,16 @@ före årsmötet.
 
 Revisorns mandatperiod är ett kalenderår.
 
+= Språk
+Föreningens verksamhet kan bedrivas på svenska eller engelska. Om minst en
+närvarande medlem inte är bekväm med att använda svenska, ska aktivitetet hållas
+på engelska, inklusive årsmöten och styrelsemöten.
+
+Mötesprotokoll, kallelser och övriga handlingar kan också skrivas på något av
+dessa språken (med företräde för engelska), med undantag för delar av dokument
+som måste vara lättillgängliga för tredje man som kräver dem på svenska, såsom
+dessa stadgar och beslut om tillgång till bankkonton.
+
 = Upplösning
 Föreningen kan endast upplösas om två på varandra följande ordinarie årsmöten så
 beslutar med två tredjedelars majoritet. Om minst 10 medlemmar motsätter sig
