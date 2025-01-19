@@ -123,8 +123,9 @@ Eventuella icke-medlemmar kan, vid beslut, adjungeras in med närvaro och
 yttranderätt, men inte rösträtt.
 
 Samtliga beslut fattas genom acklamation. Varje deltagare med rösträtt har rätt
-att begära sluten votering. Om inte annat beslutats gäller enkel majoritet.
-Beslut där mer än enkel majoritet krävs skall fattas genom sluten votering.
+att begära en votering eller sluten votering. Om inte annat beslutats gäller
+enkel majoritet. Beslut där mer än enkel majoritet krävs skall fattas genom
+votering (sluten eller ej).
 
 == Val
 Årsmötet väljer nästa års styrelse, revisor och valberedning.
