@@ -76,6 +76,20 @@ styrelsen varpå denne ej längre anses vara en medlem. Även den medlem som ej
 förnyar sitt medlemskap i samband med ett nytt verksamhetsår bör anses ha
 utträtt.
 
+== Förnyelse legitimitet
+För att säkerställa kontinuitet kan medlemmar som vid verksamhetsårets slut
+innehar en post i föreningen (styrelseledamot, revisor eller valberedning) under
+november månad lämna in en förnyelseansökan om medlemskap (adresserad till
+styrelsen, även om den är vakant) och räkna med att den automatiskt accepteras
+för det nya verksamhetsåret, varvid de hädanefter återupptar sin post.
+
+Styrelsen kan därmed legitimera sig genom denna klausul och återfå mandatet att
+fortsätta ta emot förnyelseansökningar från övriga (gamla) medlemmar.
+
+Den som inte förnyar sitt medlemskap senast den sista november anses ha
+förverkat den post som hen innehade under det senaste verksamhetsåret, och hens
+plats kan tillsättas på föreskrivet sätt.
+
 == Fyllnadsval
 Om det uppstår en vakans i styrelsen kan styrelsen själva välja in en
 ersättningsmedlem genom majoritetsbeslut. En ersättare i styrelsen har full
@@ -175,6 +189,7 @@ samt tillvarata medlemmarnas intressen. Det åligger styrelsen särskilt att:
 - verkställa av årsmötet fattade beslut,
 - planera, leda och fördela arbetet inom föreningen,
 - ansvara för och förvalta föreningens medel,
+- granska medlemsansökningar och acceptera dem (eller inte),
 - tillhandahålla alla av revisorn begärda handlingar,
 - förbereda årsmöte.
 
