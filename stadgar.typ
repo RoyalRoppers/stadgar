@@ -28,9 +28,14 @@ november till den sista oktober nästkommande år.
 
 == Ändringar
 För ändring av dessa stadgar krävs beslut på två på varandra följande årsmöten,
-med minst en månads mellanrum, varav ett ska vara ett ordinarie årsmöte, med
-minst 2/3 av antalet avgivna röster. Förslag till ändring av stadgarna får
-skriftligen avges av såväl medlem som styrelse.
+med minst en månads mellanrum, varav minst ett ska vara ett ordinarie årsmöte,
+med minst 2/3 av antalet avgivna röster. För detta ändamål kan två möten
+betraktas som på varandra följande även om extrainsatta årsmöten äger rum mellan
+dem, så längre ändringen i sig inte är en av anledningarna till
+sammankallningen.
+
+Förslag till ändring av stadgarna får skriftligen avges av såväl medlem som
+styrelse.
 
 == Tolkning
 Uppstår tvekan om tolkningen av dessa stadgar, eller om fall förekommer som inte
