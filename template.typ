@@ -5,7 +5,7 @@
   set heading(numbering: sym.section + " 1.1")
   set ref(supplement: sym.section)
   set list(indent: 1em)
-  show par: set block(below: 1.2em)
+  set par(spacing: 1.2em)
   show heading: set block(above: 1.4em, below: 1em)
 
   v(1fr)
