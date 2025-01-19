@@ -154,7 +154,14 @@ enkel majoritet. Beslut där mer än enkel majoritet krävs skall fattas genom
 votering (sluten eller ej).
 
 == Val
-Årsmötet väljer nästa års styrelse, revisor och valberedning.
+Ordinarie årsmötet väljer styrelsen, revisorn och valberedningen för
+nästakommande mandatperioder, som speciferas av dessa stadgar.
+
+Extrainsatta årsmöten kan även ersätta styrelseledamöter, revisorn och
+valberedningen i mitten av deras mandatperiod genom två tredjedelars
+majoritetsbeslut, så länge det var en av anledningarna till mötets
+sammankallning. I detta fall, tjänstgör den som är nyvald till slutet av det
+ursprungliga mandatet.
 
 == Extrainsatt årsmöte
 Styrelsen kan kalla medlemmarna till extra årsmöte. Styrelsen är skyldig att
@@ -195,7 +202,7 @@ samt tillvarata medlemmarnas intressen. Det åligger styrelsen särskilt att:
 
 == Mandatperiod
 Mandatperioden för styrelseledamöter är från dess att hen blir vald tills det
-att en ny styrelse har valts.
+att en ny styrelse har valts. Styrelsen måste väljas på varje ordinarie årsmöte.
 
 == Utträde
 Önskar en styrelseledamot avträda sin post ska detta anmälas på nästkommande
@@ -223,8 +230,9 @@ mötesordföranden och mötessekreterare.
 Valberedningen består av en person. Valberedningen har ansvar för att på
 årsmötet lägga fram ett förslag på styrelse, revisorer samt nästa års
 valberedning. Förslaget ska även innefatta en fördelning av posterna ordförande,
-vice ordförande, sekreterare och kassör. Valberedningens mandatperiod är ett
-verksamhetsår. Valberedningen får inte sitta i styrelsen eller vara revisor.
+vice ordförande, sekreterare och kassör. Valberedningens mandatperiod är från
+dess att hen blir vald tills det att en ny valberedning har valts.
+Valberedningen får inte sitta i styrelsen eller vara revisor.
 
 = Revisor
 För granskning av föreningens räkenskaper och styrelsens förvaltning ska utses 1
@@ -237,6 +245,8 @@ revisorn tillhanda senast 20 dagar före ordinarie årsmöte. Revisorern skall
 granska styrelsens förvaltning och räkenskaper för det senaste verksamhets- och
 räkenskapsåret samt till styrelsen överlämna revisionsberättelse senast 7 dagar
 före årsmötet.
+
+Revisorns mandatperiod är ett kalenderår.
 
 = Upplösning
 Föreningen kan endast upplösas om två på varandra följande ordinarie årsmöten så
