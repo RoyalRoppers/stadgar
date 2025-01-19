@@ -10,9 +10,15 @@
 
   v(1fr)
 
-  block(text(2em, weight: 700, [
-    RoyalRoppers stadgar
-  ]))
+  block(
+    text(
+      2em,
+      weight: 700,
+      [
+        RoyalRoppers stadgar
+      ],
+    ),
+  )
   text([
     Org. nr.: 802539-6931 \
     3 december 2022
