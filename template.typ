@@ -21,7 +21,22 @@
   )
   text([
     Org. nr.: 802539-6931 \
-    3 december 2022
+    #datetime.today().day()
+    #(
+      "januari",
+      "februari",
+      "mars",
+      "april",
+      "maj",
+      "juni",
+      "juli",
+      "augusti",
+      "september",
+      "oktober",
+      "november",
+      "december",
+    ).at(datetime.today().month() - 1)
+    #datetime.today().year()
   ])
 
   v(7cm)
